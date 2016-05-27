@@ -1,0 +1,258 @@
+[
+    [
+        {
+            "x": 97,
+            "y": 215,
+            "isDragged": false
+        },
+        {
+            "x": 84,
+            "y": 225,
+            "isDragged": false
+        },
+        {
+            "x": 67,
+            "y": 237,
+            "isDragged": false
+        },
+        {
+            "x": 52,
+            "y": 246,
+            "isDragged": false
+        },
+        {
+            "x": 30,
+            "y": 259,
+            "isDragged": false
+        },
+        {
+            "x": 9,
+            "y": 274,
+            "isDragged": false
+        }
+    ],
+    [
+        {
+            "x": 156,
+            "y": 214,
+            "isDragged": false
+        },
+        {
+            "x": 143,
+            "y": 227,
+            "isDragged": false
+        },
+        {
+            "x": 132,
+            "y": 237,
+            "isDragged": false
+        },
+        {
+            "x": 122,
+            "y": 248,
+            "isDragged": false
+        },
+        {
+            "x": 111,
+            "y": 259,
+            "isDragged": false
+        },
+        {
+            "x": 99,
+            "y": 270,
+            "isDragged": false
+        }
+    ],
+    [
+        {
+            "x": 186,
+            "y": 246,
+            "isDragged": false
+        },
+        {
+            "x": 178,
+            "y": 259,
+            "isDragged": false
+        },
+        {
+            "x": 171,
+            "y": 272,
+            "isDragged": false
+        },
+        {
+            "x": 162,
+            "y": 286,
+            "isDragged": false
+        },
+        {
+            "x": 154,
+            "y": 300,
+            "isDragged": false
+        },
+        {
+            "x": 144,
+            "y": 314,
+            "isDragged": false
+        }
+    ],
+    [
+        {
+            "x": 231,
+            "y": 263,
+            "isDragged": false
+        },
+        {
+            "x": 228,
+            "y": 279,
+            "isDragged": false
+        },
+        {
+            "x": 226,
+            "y": 297,
+            "isDragged": false
+        },
+        {
+            "x": 222,
+            "y": 314,
+            "isDragged": false
+        },
+        {
+            "x": 220,
+            "y": 331,
+            "isDragged": false
+        },
+        {
+            "x": 216,
+            "y": 348,
+            "isDragged": false
+        }
+    ],
+    [
+        {
+            "x": 352,
+            "y": 261,
+            "isDragged": false
+        },
+        {
+            "x": 366,
+            "y": 275,
+            "isDragged": false
+        },
+        {
+            "x": 380,
+            "y": 286,
+            "isDragged": false
+        },
+        {
+            "x": 402,
+            "y": 305,
+            "isDragged": false
+        },
+        {
+            "x": 427,
+            "y": 327,
+            "isDragged": false
+        },
+        {
+            "x": 440,
+            "y": 345,
+            "isDragged": false
+        }
+    ],
+    [
+        {
+            "x": 400,
+            "y": 245,
+            "isDragged": false
+        },
+        {
+            "x": 418,
+            "y": 260,
+            "isDragged": false
+        },
+        {
+            "x": 424,
+            "y": 264,
+            "isDragged": false
+        },
+        {
+            "x": 457,
+            "y": 284,
+            "isDragged": false
+        },
+        {
+            "x": 464,
+            "y": 291,
+            "isDragged": false
+        },
+        {
+            "x": 501,
+            "y": 314,
+            "isDragged": false
+        }
+    ],
+    [
+        {
+            "x": 424,
+            "y": 212,
+            "isDragged": false
+        },
+        {
+            "x": 451,
+            "y": 225,
+            "isDragged": false
+        },
+        {
+            "x": 468,
+            "y": 200,
+            "isDragged": false
+        },
+        {
+            "x": 514,
+            "y": 214,
+            "isDragged": false
+        },
+        {
+            "x": 493,
+            "y": 246,
+            "isDragged": false
+        },
+        {
+            "x": 544,
+            "y": 267,
+            "isDragged": false
+        }
+    ],
+    [
+        {
+            "x": 484,
+            "y": 207,
+            "isDragged": false
+        },
+        {
+            "x": 514,
+            "y": 224,
+            "isDragged": false
+        },
+        {
+            "x": 518,
+            "y": 201,
+            "isDragged": false
+        },
+        {
+            "x": 565,
+            "y": 211,
+            "isDragged": false
+        },
+        {
+            "x": 565,
+            "y": 240,
+            "isDragged": false
+        },
+        {
+            "x": 614,
+            "y": 271,
+            "isDragged": false
+        }
+    ]
+]
